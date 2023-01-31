@@ -1,0 +1,8 @@
+C:\Users\shurk\Desktop\Работы\Классы и методы\Классы\Классы\bin\Debug\Классы.exe.config
+C:\Users\shurk\Desktop\Работы\Классы и методы\Классы\Классы\bin\Debug\Классы.exe
+C:\Users\shurk\Desktop\Работы\Классы и методы\Классы\Классы\bin\Debug\Классы.pdb
+C:\Users\shurk\Desktop\Работы\Классы и методы\Классы\Классы\obj\Debug\Классы.csproj.AssemblyReference.cache
+C:\Users\shurk\Desktop\Работы\Классы и методы\Классы\Классы\obj\Debug\Классы.csproj.SuggestedBindingRedirects.cache
+C:\Users\shurk\Desktop\Работы\Классы и методы\Классы\Классы\obj\Debug\Классы.csproj.CoreCompileInputs.cache
+C:\Users\shurk\Desktop\Работы\Классы и методы\Классы\Классы\obj\Debug\Классы.exe
+C:\Users\shurk\Desktop\Работы\Классы и методы\Классы\Классы\obj\Debug\Классы.pdb
