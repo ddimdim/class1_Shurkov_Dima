@@ -82,6 +82,30 @@ namespace Классы
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             Console.ReadKey();
 
         }
