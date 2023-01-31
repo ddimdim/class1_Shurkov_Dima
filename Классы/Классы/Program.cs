@@ -44,14 +44,45 @@ namespace Классы
             return itog;
         }
     }
+    
+    public class Sq
+    {
+        public void Nums()
+        {
+            int x;
+            for (int i = 1; i <= 10; i++)
+            {
+                x = (int)Math.Pow(i, 2);
+                Console.WriteLine($"{i} - {x}");
+                Wait pr = new Wait();
+                pr.Vivod(x);
+            }
+        }
+    }
+    public class Wait
+    {
+        public void Vivod(int sr)
+        {
+            if (sr > 25) Console.WriteLine("Квадрат числа больше 25!");
+        }
+    }
 
 
     internal class Program
     {
         static void Main(string[] args)
         {
-            Tel t = new Tel();
-            Console.WriteLine(t.Cost());
+            try
+            {
+                Tel t = new Tel();
+                Console.WriteLine(t.Cost());
+                Sq square = new Sq();
+                square.Nums();
+            }
+            catch 
+            {
+                Console.WriteLine("Можно вводить только числа");
+            }
 
 
 
