@@ -69,20 +69,6 @@ namespace Классы
         {
             Tel t = new Tel();
             Console.WriteLine(t.Cost());
-            //Sq sq = new Sq();
-            //Console.WriteLine(sq.sq());
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
