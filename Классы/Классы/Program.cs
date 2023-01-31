@@ -45,23 +45,6 @@ namespace Классы
         }
     }
 
-    public class Wait
-    {
-        delegate int schet(int i, int j);
-        public class Sq
-        {
-
-            public double kvad()
-            {
-                for (int i = 1; i <= 10; i++)
-                {
-                    return (Math.Pow(i, 2));
-                }
-
-            }
-        }
-    }
-
 
     internal class Program
     {
